@@ -6,6 +6,9 @@
 .container-fluid{
  background-color: #2f3842;
 }
+.card-body{
+    background-color: #edeef0;
+}
 .card-header{
    text-align: center;
 }
